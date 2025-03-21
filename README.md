@@ -9,4 +9,10 @@ The company is trying to decide whether to focus their efforts on their mobile a
 
 Just follow the steps below to analyze the customer data (it's fake, don't worry I didn't give you real credit card numbers or emails).
 
-Code Link: https://github.com/urvigada97/MachineLearningProjects/blob/main/Linear%20Regression/Linear%20Regression%20Assignment.ipynb
+Code Link: https://github.com/urvigada97/MachineLearningProjects/blob/main/Linear%20Regression/Linear%20Regression.ipynb
+
+# Logistic Regression
+Problem Statement:
+In this project we will be working with a fake advertising data set, indicating whether or not a particular internet user clicked on an Advertisement. We will try to create a model that will predict whether or not they will click on an ad based off the features of that user.
+
+Code Link: https://github.com/urvigada97/MachineLearningProjects/blob/main/Logistic%20Regression/Logistic%20Regression.ipynb
